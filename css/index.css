@@ -146,7 +146,7 @@ nav .navbox .navafter .imgvancont img {
 
 .hero {
     width: 100vw;
-    height: 60vh;
+    height: 100vh;
     background:url(../img/back.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -267,9 +267,9 @@ footer {
     overflow: hidden;
     box-sizing: border-box;
     padding: 40px 20px;
-    position: relative;
+    position: absolute;
     left: 0px;
-    bottom: -150px;
+    top: 90vh;
 }
 footer .footerone {
     width: 100%;
